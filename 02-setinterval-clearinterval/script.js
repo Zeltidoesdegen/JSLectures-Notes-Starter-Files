@@ -28,7 +28,7 @@ var changeColor = () => {
 
 }
 
-let stopColor = () => {
+const stopColor = () => {
     clearInterval(interval);
 }
 
